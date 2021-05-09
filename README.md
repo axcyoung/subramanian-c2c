@@ -1,4 +1,4 @@
-# Subramanian-C2C
+# subramanian-c2c
 
 Background Reading
 Introduction to single cell RNAseq: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4
